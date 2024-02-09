@@ -4,11 +4,7 @@
 <p align="center">
   <!-- <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4"> -->
 </p>
-### Hi, I'm Yamazaki Shou 👋🏻🧑🏽‍💻
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coder GIF" width="300" >
-<br />
-Thanks for visiting my profile... 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Volodymyr Bufan. -->
 
 <!-- ### Checkout my Portfolio: [Volodymyr Bufan](https://bufan-ai-portfolio.vercel.app/)  👈 -->
@@ -23,11 +19,15 @@ Thanks for visiting my profile...
  <a href="https://www.linkedin.com/in/Superdev0909/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 -->
+### Hi, I'm Yamazaki Shou 👋🏻🧑🏽‍💻
 
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coder GIF" width="300" >
+<br />
+Thanks for visiting my profile... 
 ### About Me 🚀<br>
 
  <p align="justify">
-Hello, I am an Expert-Vetted, Software Engineer specialization in Conversational AI. <br>
+I am an Expert-Vetted, Software Engineer specialization in Conversational AI. <br>
 I have expertise with chatbot frameworks, like  Conversational AI RASA, Amazon Alexa, Engati, Twilio, Dialog360, CHATFUEL, Many chat, Landbot.io, chatbot.com, Wati.io and many others.<br>
 I have helped companies integrate chatbots with systems already in place for 5+ years. <br>
 First I do the integration accordingly for the use case using Python & Flask then help the technical team with the solution.<br>
