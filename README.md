@@ -19,7 +19,7 @@
  <a href="https://www.linkedin.com/in/Superdev0909/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 -->
-### Hi, I'm Yamazaki Shou 👋🏻🧑🏽‍💻
+### Hi, I'm Ruka Seichi 👋🏻🧑🏽‍💻
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coder GIF" width="300" >
 <br />
