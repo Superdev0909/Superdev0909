@@ -28,65 +28,25 @@ Thanks for visiting my profile...
 ### About Me 🚀<br>
 
  <p align="justify">
-I am an Expert-Vetted, Software Engineer specialization in Conversational AI. <br>
-I have expertise with chatbot frameworks, like  Conversational AI RASA, Amazon Alexa, Engati, Twilio, Dialog360, CHATFUEL, Many chat, Landbot.io, chatbot.com, Wati.io and many others.<br>
-I have helped companies integrate chatbots with systems already in place for 5+ years. <br>
-First I do the integration accordingly for the use case using Python & Flask then help the technical team with the solution.<br>
+As a full-stack developer, I have a broad range of skills and expertise in both front-end and back-end web development.<br>
+I possess proficiency in programming languages such as HTML, CSS, JavaScript, and various back-end languages and frameworks.<br>
+My experience includes building and maintaining responsive and user-friendly web applications, as well as integrating databases and handling server-side logic.<br>
+With a strong foundation in web development, software architecture, and system administration, I am well-equipped to contribute to the end-to-end development of complex and scalable digital solutions.<br>
 
-🚀Chatbot:<br>
- I can develop chatbots for multiple communication channels such as websites, social media platforms (Facebook, Instagram), messaging apps (WhatsApp, Telegram), SMS, and voice bots. <br>
- I am well-versed in leveraging Webhooks for seamless integration with existing systems.<br>
- I have successfully developed and deployed chatbots across various industries, including airlines, Real Estate, healthcare, dental services, events management, E-commerce and recruitment agencies. <br>
- My experience encompasses web chatbots, WhatsApp chatbots, Facebook chatbots, Telegram bots, voice bots, and SMS chatbots.<br>
-    🤩Why Chatbot:<br>
-    I Strongly believe, that a chatbot can be a virtual assistant of any business because chatbot can be available 24/7 which will increase customer satisfaction and engagement with your business. <br>
-    It means more data will be generated we can use the data for analysis, visualization and API's.<br>
-🚀LLM:<br>
- I have been developing applications with OPENAI and Google PALM for the past few months. <br>
- Especially for Extractive/Generative Question & Answering systems for unstructured text data like pdf. docx, website, JSON, google sheet etc.<br>
- I can create a custom chatbot based on that data without much training needed.<br>
-
-🏅Experiences:<br>
-✔️Big Data & ML,<br>
-By leveraging Apache Spark, I preprocessed the given data, performed the necessary cleaning and feature extraction, and chose the most suitable AI model for the task at hand. <br>
-The distributed nature of Apache Spark allows for efficient processing of large datasets, making it a popular choice for big data analytics and machine learning tasks.<br>
-✔️Resource-prelimited Chatbot<br>
-I developed various integrated ChatGPT projects such as "Proprietary AI" to assist customers with proprietary information(feeding from PDF, XLSX).<br>
-Main issue was to build a resourece-predefined Chatbot which answer the info only related to this company.<br>
-I've tried prompting and extracting specified data from PDFs, documents, but it was difficult.<br>
-After then, I found that solution.<br>
-That was great!<br>
-✔️AI Crypto Trading<br>
-I have some experience with Trading automation using AI.<br>
-In the previous work, I worked on the AI-based Go lang project for the trading.<br>
-My client gave me a great review.<br>
-✔️Image detection<br>
-In my previous work, we built a Alcohol-detection system for bad drive.<br>
-That project included,  Raspberry Pi hardware (alcohol detection using Q-Alcohol smart sensor, drive sleepy-detection using CCD camera ) and detection software to analysis the data using AI. <br>
-That is utilizing broadly to avoid the traffic troubles.<br>
-During that project, there were so many difficulties but we struggled into success.<br>
-That was perfect.<br>
-My role was to integrate the hardware and software(in particular, AI software image detection and processing using TensorFlow).<br>
-✔️Own Model<br>
--Input Sanitization<br>
--Syntax Validation<br>
--Query Parameterization<br>
--Domain-Specific Validation<br>
--NLP library:<br>
-NLTK <br>
-spaCy<br>
--Frame works:<br>
-TensorFlow or PyTorch<br>
-✔️Data extraction<br>
-I was in a data engineer's project.<br>
-I have used TensorFlow, padas, numpy, pysimplegui, aqdefreader, and docx python libraries.<br>
-Especially, I have analized the qdas files content and ouputed the report for the specific information by using TensorFlow.<br>
-It included excel, pdf and doc files with the specific table and graph.<br>
-As well as the workflow automatino perfectly completed!<br>
-Interpreting the given QDAS file, extraction and statistics from scratch was too difficult, but I did it successfully.  <br>
-I can analize all the data including QDAS files by using them.<br>
-
-Feel free to contact me if you need any help.<br>
+🏅𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔:<br>
+React / Redux / Flux, AngularJS / React Hooks<br>
+React Native<br>
+Node JS / Express/ Redis<br>
+GraphQL.js / Express GraphQL server<br>
+Relay / React Apollo / Lokka GraphQL client<br>
+Mongo / Rethink / PostgreSQL / MySQL DB<br>
+Javascript / ES 6 / Typescript<br>
+Github / Bitbucket / GitLab, Jira / Asana /Trello<br>
+Webpack / Babel / Gulp / Npm / Git<br>
+React Material UI / React Bootstrap<br>
+AWS / Heroku / DigitalOcean<br>
+Facebook / Twitter / Instagram / Stripe / Braintree Integration<br>
+APN, GA (Google Analytics) & GTM (Google Tag Management) & Facebook Analytics<br>
  </p>
 
   
