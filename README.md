@@ -35,7 +35,7 @@ With a strong foundation in web development, software architecture, and system a
  </p>
 <br>
 <br>
-###🏅Skills & Technologies:<br>
+###Skills & Technologies:🏅<br>
 <p align="justify">
 React / Next / Angular / Redux / Flux, AngularJS / React Hooks<br>
 Flutter / React Native<br>
