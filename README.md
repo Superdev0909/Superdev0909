@@ -32,10 +32,11 @@ As a full-stack developer, I have a broad range of skills and expertise in both 
 I possess proficiency in programming languages such as HTML, CSS, JavaScript, and various back-end languages and frameworks.<br>
 My experience includes building and maintaining responsive and user-friendly web applications, as well as integrating databases and handling server-side logic.<br>
 With a strong foundation in web development, software architecture, and system administration, I am well-equipped to contribute to the end-to-end development of complex and scalable digital solutions.<br>
-
+<br>
+<br>
 🏅𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔:<br>
-React / Redux / Flux, AngularJS / React Hooks<br>
-React Native<br>
+React / Next / Angular / Redux / Flux, AngularJS / React Hooks<br>
+Flutter / React Native<br>
 Node JS / Express/ Redis<br>
 GraphQL.js / Express GraphQL server<br>
 Relay / React Apollo / Lokka GraphQL client<br>
