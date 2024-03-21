@@ -34,7 +34,7 @@ My experience includes building and maintaining responsive and user-friendly web
 With a strong foundation in web development, software architecture, and system administration, I am well-equipped to contribute to the end-to-end development of complex and scalable digital solutions.<br>
 <br>
 <br>
-###🏅𝑺𝒌𝒊𝒍𝒍𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔:<br><br>
+###🏅Skills & Technologies:<br>
 React / Next / Angular / Redux / Flux, AngularJS / React Hooks<br>
 Flutter / React Native<br>
 Node JS / Express/ Redis<br>
